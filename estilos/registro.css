@@ -53,4 +53,16 @@ body {
 .registration-form button:hover {
     background-color: #5f2850;
 }
-
+.registration-form a{
+    background-color: #401A36; 
+    color: #ffffff;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 3px;;
+    text-align: center;
+    text-decoration: none;
+}
+.registration-form a:hover{
+    background-color: #5f2850;
+}
